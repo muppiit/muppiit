@@ -6,7 +6,7 @@
 :page_with_curl: I'm currently learning:
 <br><br>
 ![java](https://static.vecteezy.com/system/resources/previews/020/111/553/original/java-editorial-logo-free-download-free-vector.jpg)
-![sql](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![mariadb]([https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white))
 ![Html](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 #### Status
 ![muppiit github stats](https://github-readme-stats.vercel.app/api?username=muppiit&show_icons=true&theme=dracula&hide=stars,issues)
