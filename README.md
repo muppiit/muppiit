@@ -2,8 +2,7 @@
 #### I am Achmad Mufid 😎
 #### I am a student from Malang State Polytechnic 👨‍🎓
 #### still a beginner in coding 🔰
-<br><br>
-:page_with_curl: I'm currently learning:
+
 <br>
 #### Status
 ![muppiit github stats](https://github-readme-stats.vercel.app/api?username=muppiit&show_icons=true&theme=dracula&hide=stars,issues)
