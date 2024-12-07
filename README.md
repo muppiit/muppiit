@@ -4,10 +4,7 @@
 #### still a beginner in coding 🔰
 <br><br>
 :page_with_curl: I'm currently learning:
-<br><br>
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br>
 #### Status
 ![muppiit github stats](https://github-readme-stats.vercel.app/api?username=muppiit&show_icons=true&theme=dracula&hide=stars,issues)
 <!--
