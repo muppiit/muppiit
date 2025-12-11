@@ -1,23 +1,5 @@
-### Hi there 👋
-#### I am Achmad Mufid 😎
-#### I am a student from Malang State Polytechnic 👨‍🎓
-#### still a beginner in coding 🔰
-<br>
-<br>
+<div align='center'>
 
-#### Status
-![muppiit github stats](https://github-readme-stats.vercel.app/api?username=muppiit&show_icons=true&theme=dracula&hide=stars,issues)
-<!--
-**muppiit/muppiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
